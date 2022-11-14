@@ -4,6 +4,10 @@
 
 En este repositorio se almacenaran los **_boletines de ejercicios_** realizados a traves del lenguaje de programación Python 🐍 correspondiente al modulo de **programación**
 
+![Python][Python]
+
+[Python]: https://i.gifer.com/7LIV.gif
+
 ## **2. Clasificacion**
 
 [-BOLETIN_1](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_1)
