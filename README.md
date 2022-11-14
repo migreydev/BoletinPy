@@ -9,21 +9,26 @@ En este repositorio se almacenaran los **_boletines de ejercicios_** realizados 
 
 ## **2. Apartados**
 
-[-BOLETIN_1](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_1)
+- **Programación estructurada**
 
-[-BOLETIN_2](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_2)
+  -[BOLETIN_1](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_1)
+  
+  -[BOLETIN_2](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_2)
 
-[-BOLETIN_3](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_3)
+  -[BOLETIN_3](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_3)
 
-[-BOLETIN_4](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_4)
+  -[BOLETIN_4](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_4)
 
-[-BOLETIN_5](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_5)
+  -[BOLETIN_5](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_5)
 
-[-BOLETIN_6](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_6)
+  -[BOLETIN_6](https://github.com/migreydev/BoletinPy/tree/master/BOLETIN_6)
 
--BOLETIN_7
+  -BOLETIN_7
 
--BOLETIN_MODULAR
+- **Programación modular**
+
+  -BOLETIN_MODULAR
+
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/migreydev/BoletinPy)
