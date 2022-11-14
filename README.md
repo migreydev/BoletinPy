@@ -6,7 +6,7 @@ En este repositorio se almacenaran los **_boletines de ejercicios_** realizados 
 
 ![Python][Python]
 
-[Python]: https://i.gifer.com/7LIV.gif
+[Python]:https://i.gifer.com/7LIV.gif
 
 ## **2. Clasificacion**
 
