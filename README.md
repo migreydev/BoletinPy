@@ -31,4 +31,4 @@ En este repositorio se almacenaran los **_boletines de ejercicios_** realizados 
 
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/migreydev/BoletinPy)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=migreydev.visitor-badge)
