@@ -30,5 +30,4 @@ En este repositorio se almacenaran los **_boletines de ejercicios_** realizados 
   -BOLETIN_MODULAR
 
 
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=migreydev.visitor-badge)
