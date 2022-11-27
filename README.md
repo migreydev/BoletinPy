@@ -29,7 +29,7 @@ En este repositorio se almacenaran los **_boletines de ejercicios_** realizados 
 
   -[BOLETIN_MODULAR I](https://github.com/migreydev/BoletinPy/tree/master/MODULAR_1)
   
-  -[BOLETIN_MODEULAR_II](https://github.com/migreydev/BoletinPy/tree/master/MODULAR_II)
+  -[BOLETIN_MODULAR_II](https://github.com/migreydev/BoletinPy/tree/master/MODULAR_II)
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=migreydev.visitor-badge)
